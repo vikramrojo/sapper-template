@@ -7,7 +7,7 @@ A starter template for building markdown-powered blogs with [Sapper](https://git
 ## ✨ Getting started
 
 ```bash
-npx degit Charca/sapper-blog-template my-blog
+npx degit atav1k/sapper-template my-blog
 cd my-blog
 npm install # or yarn!
 npm run dev
